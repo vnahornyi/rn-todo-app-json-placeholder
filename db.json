@@ -1,5 +1,18 @@
 {
-  "todos": [],
+  "todos": [
+    {
+      "id": 123,
+      "title": "Todo 1",
+      "description": "Todo description 1",
+      "isCompleted": true
+    },
+    {
+      "id": 345,
+      "title": "Todo 2",
+      "description": "Todo description 2",
+      "isCompleted": false
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
